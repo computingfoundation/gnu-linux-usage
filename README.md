@@ -13,9 +13,9 @@ It is made up of the following four types of solutions:
 3. One-liners
 4. Aliases
 
-# Paradigms
+# Categories
 
-Here is a list of all the paradigms with a few examples in which all solutions exist:
+Here is a list of all the categories with a few examples in which all solutions exist:
 
 ## Application management
 
